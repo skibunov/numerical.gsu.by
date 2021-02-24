@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4724526a-2861-40ad-9630-04e69a227cc8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/skibunov/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/skibunov/Application.java" afterDir="false" />
-    </list>
-    <list id="75aedf4c-90df-4dae-b5d1-60665879d5c5" name="Revert &quot;lab1 add&quot;" comment="Revert &quot;lab1 add&quot;&#10;&#10;This reverts commit 8f0c6f95">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/gsu.by.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/skibunov/lab_1/constant/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/skibunov/lab_1/constant/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/skibunov/lab_1/matrix/ArrayMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/skibunov/lab_1/matrix/ArrayMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/skibunov/lab_1/method/GaussMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/skibunov/lab_1/method/GaussMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/skibunov/lab_1/method/SqrtMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/skibunov/lab_1/method/SqrtMethod.java" afterDir="false" />
-    </list>
+    <list default="true" id="4724526a-2861-40ad-9630-04e69a227cc8" name="Default Changelist" comment="lab1 add" />
+    <list id="75aedf4c-90df-4dae-b5d1-60665879d5c5" name="Revert &quot;lab1 add&quot;" comment="Revert &quot;lab1 add&quot;&#10;&#10;This reverts commit 8f0c6f95" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +25,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1onh2Any7GPB0pLZnZnY4WEUifH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -106,7 +88,7 @@
       <updated>1613928055332</updated>
       <workItem from="1613928057381" duration="7029000" />
       <workItem from="1614008734819" duration="280000" />
-      <workItem from="1614171379061" duration="2818000" />
+      <workItem from="1614171379061" duration="3092000" />
     </task>
     <task id="LOCAL-00001" summary="lab1 add">
       <created>1614174364350</created>

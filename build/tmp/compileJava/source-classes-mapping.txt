@@ -1,9 +1,9 @@
-by/skibunov/lab_1/matrix/ArrayMatrix.java
- by.skibunov.lab_1.matrix.ArrayMatrix
-by/skibunov/lab_1/constant/Constant.java
- by.skibunov.lab_1.constant.Constant
 by/skibunov/lab_1/method/SqrtMethod.java
  by.skibunov.lab_1.method.SqrtMethod
+by/skibunov/lab_1/constant/Constant.java
+ by.skibunov.lab_1.constant.Constant
+by/skibunov/lab_1/matrix/ArrayMatrix.java
+ by.skibunov.lab_1.matrix.ArrayMatrix
 by/skibunov/lab_1/method/GaussMethod.java
  by.skibunov.lab_1.method.GaussMethod
 by/skibunov/Application.java

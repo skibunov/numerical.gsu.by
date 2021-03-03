@@ -17,7 +17,6 @@ public class GaussMethod {
     }
 
     public void getTriangle(){
-
         for (int i = 0; i < n - 1; i++) {
             for (int j = i + 1; j < n; j++) {
                 double koef = matrix[i][j] / matrix[i][i];
@@ -26,7 +25,6 @@ public class GaussMethod {
                 }
             }
         }
-
     }
 
     public double determinant(){

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gsu.by.iml" filepath="$PROJECT_DIR$/.idea/modules/gsu.by.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gsu.by.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gsu.by.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gsu.by.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gsu.by.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/numerical.gsu.by.iml" filepath="$PROJECT_DIR$/.idea/numerical.gsu.by.iml" />
+    </modules>
+  </component>
+</project>
